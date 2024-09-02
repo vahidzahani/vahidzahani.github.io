@@ -9,3 +9,6 @@
     <h1>hello test git</h1>
 </body>
 </html>
+<?php
+echo time();
+?>
